@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raspsis", "raspsis.csproj", "{518DEF99-D460-4F44-8F24-92B5B7422249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518DEF99-D460-4F44-8F24-92B5B7422249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518DEF99-D460-4F44-8F24-92B5B7422249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518DEF99-D460-4F44-8F24-92B5B7422249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518DEF99-D460-4F44-8F24-92B5B7422249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5834C9D8-B89F-48F6-9422-5BAA9F8BB610}
+	EndGlobalSection
+EndGlobal
